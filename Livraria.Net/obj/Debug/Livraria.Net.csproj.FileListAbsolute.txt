@@ -112,9 +112,7 @@ C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\EntityFramework.Sql
 C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\Google.Protobuf.dll
 C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\MySql.Data.dll
 C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\Google.Protobuf.xml
-C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\MySql.Data.xml
 C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\MySql.Data.Entity.EF6.dll
-C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\MySql.Data.Entity.EF6.xml
 C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\WebApiContrib.Formatting.Jsonp.dll
 C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\WebApiContrib.Formatting.Jsonp.pdb
 C:\Users\Jonathan\source\repos\Livraria.Net\Livraria.Net\bin\System.Web.Cors.dll

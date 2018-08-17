@@ -23,25 +23,17 @@ namespace Livraria.Controllers
             return context.Books.ToList();
         }
         
-     /*   public IEnumerable<Book> Get(Book book)
-        {
-            return context.Books.Where(e => e.Equals(book));
-        }
-
-        public Book Get(int id)
-        {
-            return context.Books.Find(id);
-        } */
-        
         public void Post([FromBody]Book book)
         {
             context.Books.Add(book);
             context.SaveChanges();
         }
         
-        public void Put(int id, [FromBody]Book book)
+        public void Put([FromBody]Book book)
         {
-            context.Books.Add(book);
+            Book bookNew = new Book { Id = book.Id };
+            context.Books.Attach(bookNew);
+            bookNew.Name = book.Name;
             context.SaveChanges();
         }
 
